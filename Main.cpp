@@ -1,4 +1,3 @@
-#pragma once
 #include "Extra.h"
 
 int Size = 3; int Scale = 150;
